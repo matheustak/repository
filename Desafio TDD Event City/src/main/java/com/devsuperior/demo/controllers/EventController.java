@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.devsuperior.demo.dto.EventDTO;
 import com.devsuperior.demo.service.EventService;
-import com.devsuperior.demo.service.exceptions.DatabaseException;
 import com.devsuperior.demo.service.exceptions.ResourceNotFoundException;
 
 @RestController
